@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Màu bài tập bên trái -->
+    <color name="purple_header">#9C27B0</color>   <!-- Header My Application -->
+    <color name="cyan_01">#00BCD4</color>         <!-- 01 -->
+    <color name="green_02">#4CAF50</color>        <!-- 02 + 04 -->
+    <color name="pink_03">#E91E63</color>         <!-- 03 -->
+    <color name="blue_05">#1A557C</color>         <!-- 05 -->
+    <color name="light_blue_06">#03A9F4</color>   <!-- 06 -->
+    <color name="red_06">#F44336</color>          <!-- 06 (đỏ lớn) -->
+    <color name="yellow_07">#FFEB3B</color>       <!-- 07 -->
+
+    <!-- Màu bài tập bên phải -->
+    <color name="red_1">#F44336</color>           <!-- 1 -->
+    <color name="yellow_2">#FFEB3B</color>        <!-- 2 -->
+    <color name="blue_3">#2196F3</color>          <!-- 3 -->
+    <color name="pink_4">#F8BBD0</color>          <!-- 4 -->
+    <color name="purple_5">#9C27B0</color>        <!-- 5 -->
+</resources>
